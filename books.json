@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Title one",
+    "author": "author1",
+    "publicationYear": 2001
+  },
+  {
+    "id": 2,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 3,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 4,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 5,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 6,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 7,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 8,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 9,
+    "title": "Tile two",
+    "author": "author2",
+    "publicationYear": 2002
+  },
+  {
+    "id": 10,
+    "title": "22",
+    "author": "author2",
+    "publicationYear": 2002
+  }
+]
